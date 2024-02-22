@@ -1,0 +1,14 @@
+c:\Dados\Flavio\Projetos\Git\pipelinepattern\bin\Debug\net8.0\pipelinepattern.exe
+c:\Dados\Flavio\Projetos\Git\pipelinepattern\bin\Debug\net8.0\pipelinepattern.deps.json
+c:\Dados\Flavio\Projetos\Git\pipelinepattern\bin\Debug\net8.0\pipelinepattern.runtimeconfig.json
+c:\Dados\Flavio\Projetos\Git\pipelinepattern\bin\Debug\net8.0\pipelinepattern.dll
+c:\Dados\Flavio\Projetos\Git\pipelinepattern\bin\Debug\net8.0\pipelinepattern.pdb
+c:\Dados\Flavio\Projetos\Git\pipelinepattern\obj\Debug\net8.0\pipelinepattern.GeneratedMSBuildEditorConfig.editorconfig
+c:\Dados\Flavio\Projetos\Git\pipelinepattern\obj\Debug\net8.0\pipelinepattern.AssemblyInfoInputs.cache
+c:\Dados\Flavio\Projetos\Git\pipelinepattern\obj\Debug\net8.0\pipelinepattern.AssemblyInfo.cs
+c:\Dados\Flavio\Projetos\Git\pipelinepattern\obj\Debug\net8.0\pipelinepattern.csproj.CoreCompileInputs.cache
+c:\Dados\Flavio\Projetos\Git\pipelinepattern\obj\Debug\net8.0\pipelinepattern.dll
+c:\Dados\Flavio\Projetos\Git\pipelinepattern\obj\Debug\net8.0\refint\pipelinepattern.dll
+c:\Dados\Flavio\Projetos\Git\pipelinepattern\obj\Debug\net8.0\pipelinepattern.pdb
+c:\Dados\Flavio\Projetos\Git\pipelinepattern\obj\Debug\net8.0\pipelinepattern.genruntimeconfig.cache
+c:\Dados\Flavio\Projetos\Git\pipelinepattern\obj\Debug\net8.0\ref\pipelinepattern.dll
